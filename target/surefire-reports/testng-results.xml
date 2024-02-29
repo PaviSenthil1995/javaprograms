@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T19:46:28 IST" name="Suite" finished-at="2024-02-28T19:46:48 IST" duration-ms="20373">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T19:46:28 IST" name="Test" finished-at="2024-02-28T19:46:48 IST" duration-ms="20373">
+      <class name="TestScripts.LoginTest">
+        <test-method is-config="true" signature="setReport()[pri:0, instance:TestScripts.LoginTest@4efbca5a]" started-at="2024-02-28T19:46:27 IST" name="setReport" finished-at="2024-02-28T19:46:28 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method is-config="true" signature="driverInitialization()[pri:0, instance:TestScripts.LoginTest@4efbca5a]" started-at="2024-02-28T19:46:28 IST" name="driverInitialization" finished-at="2024-02-28T19:46:44 IST" duration-ms="16592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method signature="loginOrange()[pri:0, instance:TestScripts.LoginTest@4efbca5a]" started-at="2024-02-28T19:46:44 IST" name="loginOrange" finished-at="2024-02-28T19:46:47 IST" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOrange -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:TestScripts.LoginTest@4efbca5a]" started-at="2024-02-28T19:46:47 IST" name="driverClose" finished-at="2024-02-28T19:46:48 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method is-config="true" signature="WriteReport()[pri:0, instance:TestScripts.LoginTest@4efbca5a]" started-at="2024-02-28T19:46:48 IST" name="WriteReport" finished-at="2024-02-28T19:46:48 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WriteReport -->
+      </class> <!-- TestScripts.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
